@@ -1,6 +1,3 @@
-本项目仅仅是为了前来Fork的朋友保留的，原则上不再更新。本项目示范网站地址为：https://klovien.github.io 。
-
-
 ### 致谢
 1. 这个模板是从这里 [github.com/klovien/klovien.github.io ](https://github.com/klovien/klovien.github.io)  fork 的, 感谢作者klovien
 2. klovien的模板是从这里 [BY](https://github.com/qiubaiying/qiubaiying.github.io) fork 的, 感谢作者BY。 
